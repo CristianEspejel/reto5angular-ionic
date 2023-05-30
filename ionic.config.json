@@ -1,0 +1,7 @@
+{
+  "name": "reto5-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
