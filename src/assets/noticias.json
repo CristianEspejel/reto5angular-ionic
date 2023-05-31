@@ -1,0 +1,16 @@
+[
+  {
+    "imagen": "assets/solar.jpg",
+    "titulo": "Noticia 1",
+    "fecha": "2023-05-30",
+    "descripcion": "Descripción de la noticia 1",
+    "id": 1
+  },
+  {
+    "imagen": "assets/tree.jpg",
+    "titulo": "Noticia 2",
+    "fecha": "2023-05-29",
+    "descripcion": "Descripción de la noticia 2",
+    "id": 2
+  }
+]
